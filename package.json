@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/harshtripathi3/github.io/portfolio-website",
+  "homepage": "https://harshtripathi3.github.io/portfolio-website",
   "dependencies": {
     "framer-motion": "^10.12.16",
     "react": "^18.2.0",
