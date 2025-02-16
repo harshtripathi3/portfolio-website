@@ -20,7 +20,7 @@ const Hero = () => {
         animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 1.2, type: 'spring' }}
       >
-        <h1 className="transformer-text">CODE TRANSFORMER</h1>
+        <h1 className="transformer-text">DATA TRANSFORMER</h1>
       </motion.div>
 
       {/* Sliding tech images */}
@@ -70,7 +70,7 @@ const Hero = () => {
           }}
           transition={{ duration: 2, repeat: Infinity }}
         >
-          Full-Stack Developer
+          Harsh Tripathi
         </motion.h1>
         
         <motion.p
@@ -79,7 +79,7 @@ const Hero = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 1.2 }}
         >
-          Turning ideas into interactive digital experiences
+          Turning data into impactful Insights
         </motion.p>
       </motion.div>
 

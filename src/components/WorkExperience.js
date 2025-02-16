@@ -5,19 +5,21 @@ const WorkExperience = () => {
   const experiences = [
     {
       id: 1,
-      company: "Tech Innovators Inc",
-      position: "Senior Full Stack Developer",
-      duration: "2022 - Present",
-      description: "Led development of enterprise-scale applications using modern tech stack including React, Node.js, and cloud services."
+      company: "Mercedes-Benz Research Developement India",
+      position: "Data Scientist",
+      duration: "Jan 2024 - Present",
+      description: "Automated defect triage on AKS (40% server load reduction). Engineered big data pipeline for log conversion. Improved diagnostics with custom visualizations (25% reduction in diagnosis time). Optimized ETL framework for 5x faster data ingestion. AI-powered ticketing: automated tagging, reduced ticket reassignment (90%), accelerated resolution."
     },
-    {
-      id: 2,
-      company: "Digital Solutions Co",
-      position: "Frontend Developer",
-      duration: "2020 - 2022",
-      description: "Developed customer-facing web applications with complex state management and responsive UI components."
-    }
+    // {
+    //   id: 2,
+    //   company: "Digital Solutions Co",
+    //   position: "Frontend Developer",
+    //   duration: "2020 - 2022",
+    //   description: "Developed customer-facing web applications with complex state management and responsive UI components."
+    // }
   ];
+
+
 
   return (
     <section className="experience">
